@@ -1,3 +1,3 @@
 ```commandline
-pip freeze -r requiraments.txt 
+pip freeze -r requirements.txt 
 ```
